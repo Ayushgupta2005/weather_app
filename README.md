@@ -16,7 +16,7 @@ A beautiful, responsive weather dashboard built with vanilla HTML, CSS, and Java
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://weatherapp-seven-sable.vercel.app)
+[View Live Demo]([https://weatherapp-seven-sable.vercel.app](https://weather-app-one-brown-29.vercel.app))
 
 ## ��️ Technologies Used
 
